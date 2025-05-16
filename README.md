@@ -1,1 +1,1 @@
-![SL Auf Recherche](https://github.com/weissalexey/Winsped-Lisin/blob/main/assets/ERD_WinSped_Detail.png)
+![SL Auf Recherche]([https://github.com/weissalexey/WinSped-LisIn/blob/main/ERD_WinSped_Detail.png?raw=true])
